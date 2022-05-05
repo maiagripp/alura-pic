@@ -1,0 +1,26 @@
+[
+  {
+    "email": "claudia@email.com",
+    "fullName": "Claudia Maia",
+    "userName": "claudiamaia",
+    "password": "12345678"
+  },
+  {
+    "email": "caramelo@email.com",
+    "fullName": "Caramelo Maia",
+    "userName": "caramelomaia",
+    "password": "87654321"
+  },
+  {
+    "email": "lola@email.com",
+    "fullName": "Lola Maia",
+    "userName": "lolamaia",
+    "password": "54862179"
+  },
+  {
+    "email": "cookie@email.com",
+    "fullName": "Cookie Maia",
+    "userName": "cookiemaia",
+    "password": "12345678"
+  }
+]
